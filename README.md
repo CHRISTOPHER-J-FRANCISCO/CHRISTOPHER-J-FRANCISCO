@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'VE DITCHED GITHUB FOR [GITLAB](https://gitlab.com/chrissyfranky1)
 <!--
 **CHRISTOPHER-J-FRANCISCO/CHRISTOPHER-J-FRANCISCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
