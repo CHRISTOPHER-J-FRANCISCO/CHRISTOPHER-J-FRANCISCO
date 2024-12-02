@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'VE DITCHED GITHUB FOR [GITLAB](https://gitlab.com/chrissyfranky1)
+
+ONLY ALPHA VERSIONS WILL BE FEATURED ON HERE
 <!--
 **CHRISTOPHER-J-FRANCISCO/CHRISTOPHER-J-FRANCISCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
